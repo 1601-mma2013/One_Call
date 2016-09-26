@@ -35,22 +35,26 @@ Review existing work and product
 Understand product vision and constraints
 
 1. product{project} vision 
-  -Users able to call the correct contact number right away without wasting time when they are in emergency situation.
+
+   - Users able to call the correct contact number right away without wasting time when they are in emergency situation.
    (normally people will get panic in critical moment and don't know who should they call or don't know what's the number of emergency       call)
   
 
 To provide quick and accessible help at all times with accurate information
 
 2. risk
+
         - Users abuse the usage of emergency buttons, causing false alarm.
         - Information of nearest stations are not updated
         - Users' handphone GPS is not responsive
 
 3. Obstacles
-	-Accuracy of location
-	-Techincal problems
+
+	 -Accuracy of location
+	 -Techincal problems
 	
 4. constraints 
+
         - Lack of information
 	- Missed up some location and contact.
 	- Users ignore the application as if they think it is an extra for them.
