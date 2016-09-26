@@ -28,7 +28,8 @@ Review existing work and product
 
 ## Competitors
 
- 1. Emergency+
+1. Emergency+
+ 
  A smartphone apps that developed by Australia’s Triple Zero Awareness Working Group. This apps:
 
  - provide the caller with information about when to call Triple Zero.
@@ -47,8 +48,9 @@ Cons:
  - Time consuming
  
  
- 2. BeeSafe
-   BeeSafe contains an incredibly wide set of personal safety features. 
+2. BeeSafe
+  
+  BeeSafe contains an incredibly wide set of personal safety features. 
 
  - It can be used to privately alert friends that you’ve arrived at your destination, send info about your changing GPS location and        even setup fake phone calls to slyly escape uncomfortable dates and similar situations.
  - BeeSafe offers an audible alarm and immediately starts broadcasting video captured by your phone and your GPS location. Information      is continually collected and recorded, and is sharable with police should it prove necessary to do so. 
