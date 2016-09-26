@@ -75,7 +75,7 @@ Find various aspect of audience/customer
 
 4. (user’s) attitudes - To reduce the time taken and risk.
 
-5. (user’s) aptitudes - Application
+5. (user’s) aptitudes - Application (Android/iOS)
 	
 6. (user’s) motivations - To reduce worse case scenario within the time user find the nearest location and emergency call number.
 
