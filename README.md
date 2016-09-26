@@ -87,21 +87,27 @@ Find various aspect of audience/customer
 
 ## 2. Modeling
 ### a. Personas
-user and customer archetypes
+ 
+       Name       : Michellin
+       Gender     : Female
+       Age        : 20
+       Occupation : 
+       
 
-1. **goals**
+1. Goal - Able to minimize the time taken when finding emergency number(hospital,police,fire station) at emergency moment.
 
-2. Patterns in user and customer behaviors
+2. Behaviour - Panic when something happen.
 
-3. attitudes
+3. attitudes - She is too reliable to phone.
 
-4. aptitudes
+4. aptitudes - Since she is more rely on phone,so she more familiar with phone application.
 
-5. environments
+5. environments - Everywhere
 
-6. tools
+6. tools  - Gadget (Phone/Tablet)
 
-7. challenges
+7. challenges - Futuristic and simple visual design.
+              
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
