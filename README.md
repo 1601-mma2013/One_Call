@@ -26,6 +26,7 @@ Review existing work and product
 1. Field (market) research
 
 2. competitors / alternatives / replacement
+   -Same concept application designer.
 
 4. relevant technologies 
 
@@ -63,9 +64,8 @@ Find various aspect of audience/customer
 
 4. (user’s) attitudes - To reduce the time taken and risk.
 
-5. (user’s) aptitudes
-	- users’s ability to learn something quickly and do it well
-
+5. (user’s) aptitudes - Application
+	
 6. (user’s) motivations - To reduce worse case scenario within the time user find the nearest location and emergency call number.
 
 7. (user’s) environments - Anywhere.As long as that environment can detect with GPS.
