@@ -83,15 +83,12 @@ Review existing work and product
        
 
 ### c. Stakeholder Interviews (internal / external)
-Understand product vision and constraints
+
 
 1. product{project} vision 
 
    - Users able to call the correct contact number right away without wasting time when they are in emergency situation.
-   (normally people will get panic in critical moment and don't know who should they call or don't know what's the number of emergency       call)
-  
-
-To provide quick and accessible help at all times with accurate information
+   - To provide quick and accessible help at all times with accurate information
 
 2. risk
 
@@ -107,15 +104,17 @@ To provide quick and accessible help at all times with accurate information
 
       - Lack of information
       - Missed up some location and contact.
-      - Users ignore the application as if they think it is an extra for them.
+      - Users ignore the application as if they think emergencies not happen always.
       - Users do not think that application is helpful.
 	
 	1. Internal limitations 
 		2. viable technologies
 		2. cost
 5. opportunities 
-        - Lessen worst case scenerio (Example : if taking more time to find the right contact number,it might be too late)
-	
+        1. Lessen worst case scenerio (Example : if taking more time to find the right contact number,it might be too late)
+	 - to minimize the time needed to obtain correct contact number
+	 - to improve personal safety [especially emergency happens when you are alone/during midnight] 
+	 
 	
 	1. **In spite of** the obstacles we have this project has strength from a), b), c), …. 
 	2. Persisting problem
