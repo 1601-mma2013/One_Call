@@ -24,13 +24,49 @@ The 'One Call' Application:
 ### b. Audit
 Review existing work and product
 1. Field (market) research
-
-2. competitors / alternatives / replacement
-
 -Same concept application designer(chance of better function/layout)
 
-4. relevant technologies
-       -Android/iOS
+## Competitors
+
+1. Emergency+
+A smartphone apps that developed by Australia’s Triple Zero Awareness Working Group. This apps:
+
+ - provide the caller with information about when to call Triple Zero.
+ - provide the caller with information about who to call in various non-emergency situations.
+ - assist the caller to dial the relevant number.
+ - display the GPS coordinates of the phone's location that the caller can read out to the emergency operator.
+
+Pros:
+
+ - Accessible for iOS, Android and Windows devices
+ - There are no monthly fees associated with use of the app.
+
+Cons:
+
+ - Not all of them can do what they claim and could delay emergency assistance
+ - Time consuming
+ 
+2. BeeSafe
+
+BeeSafe contains an incredibly wide set of personal safety features. 
+
+ - It can be used to privately alert friends that you’ve arrived at your destination, send info about your changing GPS location and        even setup fake phone calls to slyly escape uncomfortable dates and similar situations.
+ - BeeSafe offers an audible alarm and immediately starts broadcasting video captured by your phone and your GPS location. Information      is continually collected and recorded, and is sharable with police should it prove necessary to do so. 
+ - You can activate the alarm manually or you can use the Follow Me Timer mode, which which will automatically send an emergency SOS 	    message if you don't check in before the timer runs out.[It is great for late nights or a little extra safety on your morning run        when you only want to disturb people in an emergency.]
+
+Pros:
+
+ - Accessible for iOS, Android and Windows devices
+ - There are no monthly fees associated with use of the app.
+ 
+Cons:
+
+ - Requires to resigter an account
+ - Complex interface
+ - Inaccurate location signal
+
+## Relevant technologies
+       
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
