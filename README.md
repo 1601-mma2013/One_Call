@@ -187,7 +187,6 @@ Michee felt helpless as she has never experienced an accident before. She quickl
 
 After all the hassle, Michee finally managed to recieve help from two policemen, made a car accident report and settled everything with the driver.
 
-Notice how the scenario remains at a fairly high level, without getting too specific about interfaces or technologies. It’s important to create scenarios that are within the realm of technical possibility, but at this stage the details of reality are unimportant. We want to leave the door open for truly novel solutions, and it’s always possible to scale back; we are ultimately trying to describe an optimal, yet still feasible, experience. Also notice how the activities in the scenario tie back to Vivien’s goals and try to eliminate as many tasks as possible.
 
 ### b. Requirements
 Describe necessary capabilities of the product
