@@ -26,13 +26,19 @@ Review existing work and product
 1. Field (market) research
 
 2. competitors / alternatives / replacement
-   -Same concept application designer.
+   -Same concept application designer(chance of better function/layout)
 
-4. relevant technologies 
+4. relevant technologies
+   -Android/iOS
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
+
 1. product{project} vision 
+  -Users able to call the correct contact number right away without wasting time when they are in emergency situation.
+   (normally people will get panic in critical moment and don't know who should they call or don't know what's the number of emergency       call)
+  
+
 To provide quick and accessible help at all times with accurate information
 
 2. risk
@@ -55,7 +61,6 @@ To provide quick and accessible help at all times with accurate information
 		2. cost
 5. opportunities 
         - Lessen worst case scenerio (Example : if taking more time to find the right contact number,it might be too late)
-	- Users might ignore the application if they think it is an extra for them.
 	
 	
 	1. **In spite of** the obstacles we have this project has strength from a), b), c), …. 
