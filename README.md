@@ -94,7 +94,7 @@ Find various aspect of audience/customer
        Occupation : 
        
 
-1. Goal - Able to minimize the time taken when finding emergency number(hospital,police,fire station) at emergency moment.
+1. Goal - Able to minimize the time taken when finding emergency number(hospital,police,fire station) at emergency situation.
 
 2. Behaviour - Panic when something happen.
 
