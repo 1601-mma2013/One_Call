@@ -57,22 +57,22 @@ Find various aspect of audience/customer
  
 1. Users
 
-2. potential users
+2. potential users - User with cellphone
 
-3. (user’s) behaviors
+3. (user’s) behaviors - User have problem to find nearest location and emergency call number when they having emergency.
 
-4. (user’s) attitudes
+4. (user’s) attitudes - To reduce the time taken and risk.
 
 5. (user’s) aptitudes
 	- users’s ability to learn something quickly and do it well
 
-6. (user’s) motivations
+6. (user’s) motivations - To reduce worse case scenario within the time user find the nearest location and emergency call number.
 
-7. (user’s) environments
+7. (user’s) environments - Anywhere.As long as that environment can detect with GPS.
 
-8. (user’s) tools
+8. (user’s) tools - Cellphone or tablet.
 
-9. (user’s) challenges
+9. (user’s) challenges - Unable get accurate location and number of each emergency button.
 
 ## 2. Modeling
 ### a. Personas
