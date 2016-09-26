@@ -26,10 +26,11 @@ Review existing work and product
 1. Field (market) research
 
 2. competitors / alternatives / replacement
-   -Same concept application designer(chance of better function/layout)
+
+-Same concept application designer(chance of better function/layout)
 
 4. relevant technologies
-   -Android/iOS
+       -Android/iOS
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
@@ -44,21 +45,20 @@ To provide quick and accessible help at all times with accurate information
 
 2. risk
 
-        - Users abuse the usage of emergency buttons, causing false alarm.
-        - Information of nearest stations are not updated
-        - Users' handphone GPS is not responsive
+      - Users abuse the usage of emergency buttons, causing false alarm.
+      - Information of nearest stations are not updated
+      - Users' handphone GPS is not responsive
 
 3. Obstacles
-
-	 -Accuracy of location
-	 -Techincal problems
+        -Accuracy of location
+        -Techincal problems
 	
 4. constraints 
 
-        - Lack of information
-	- Missed up some location and contact.
-	- Users ignore the application as if they think it is an extra for them.
-	- Users do not think that application is helpful.
+      - Lack of information
+      - Missed up some location and contact.
+      - Users ignore the application as if they think it is an extra for them.
+      - Users do not think that application is helpful.
 	
 	1. Internal limitations 
 		2. viable technologies
