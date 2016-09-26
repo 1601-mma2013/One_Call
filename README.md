@@ -28,7 +28,7 @@ Review existing work and product
 
 ## Competitors
 
-1. Emergency+
+**1. Emergency+**
  
  A smartphone apps that developed by Australia’s Triple Zero Awareness Working Group. This apps:
 
@@ -37,18 +37,18 @@ Review existing work and product
  - assist the caller to dial the relevant number.
  - display the GPS coordinates of the phone's location that the caller can read out to the emergency operator.
 
-Pros:
+ *Pros:
 
  - Accessible for iOS, Android and Windows devices
  - There are no monthly fees associated with use of the app.
 
-Cons:
+ *Cons:
 
  - Not all of them can do what they claim and could delay emergency assistance
  - Time consuming
  
  
-2. BeeSafe
+**2. BeeSafe**
   
   BeeSafe contains an incredibly wide set of personal safety features. 
 
@@ -56,12 +56,12 @@ Cons:
  - BeeSafe offers an audible alarm and immediately starts broadcasting video captured by your phone and your GPS location. Information      is continually collected and recorded, and is sharable with police should it prove necessary to do so. 
  - You can activate the alarm manually or you can use the Follow Me Timer mode, which which will automatically send an emergency SOS 	    message if you don't check in before the timer runs out.[It is great for late nights or a little extra safety on your morning run        when you only want to disturb people in an emergency.]
 
-Pros:
+*Pros:
 
  - Accessible for iOS, Android and Windows devices
  - There are no monthly fees associated with use of the app.
  
-Cons:
+*Cons:
 
  - Requires to resigter an account
  - Complex interface
