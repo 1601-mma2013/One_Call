@@ -208,13 +208,6 @@ Before she leaves the house, Michee makes sure that she has her parents' and clo
 7. Challenges - Futuristic and simple visual design.
               
 
-### b. Other Models
-Represent domain factors beyond individual users and customers
-1. Workflows among multiple people
-
-2. environments
-
-3. artifacts
 # II. Synthesis
 ## 1. Requirements Definition
 ### a. Context Scenarios
@@ -233,27 +226,79 @@ Lastly, Michee is notified that the time of her police call has been recorded in
 
 ### b. Requirements
 Describe necessary capabilities of the product
-- Functional and data needs
-- user mental models
-- design imperatives
-- product vision
-- business requirements
-- technology
+Functional and data needs
+
+
+User mental models
+* Users can seek help/contact emergency stations and close contacts in the shortest time possible.
+
+
+Design imperatives
+* The application provides features of adding important contacts of close friends and families.
+* The application provides features of contacting the nearest emergency stations with just one tap.
+
+
+Product vision
+* Malaysians are able to seek help and contact emergency stations when needed, unfortunate cases such as accidents can be lessen and prevented.
+
+
+Business requirements
+- Collected Information
+   * Users prefer a simple and user friendly interface
+   
+- Key Attributes of the Product
+   * A customized serviced specifically for Malaysia citizens.
+   * Users can contact the nearest emergency stations with just one tap.
+   * Users can send alert messages to people in the close friends contacts.
+   
+- Scope of the Project
+   * To minimize the time taken to contact emergency stations(hospital,police,fire station) and closed friends and families.
+   
+- Phases of the Project
+   * With lesser time needed to call for help, unfortunate accidents can be avoided and lessen.
+   * With alert messages, user's close friends and families will be informed when user calls for help.
+
+- Technology
+* When users first sign into the application, he/she's mobile phone Global Positioning System(GPS) system will be turned on to locate the user's location. The location obtained will then be used to search the nearby emergency stations around the users. With just one tap, users can then call the  emergency stations to seek for help. With the ontained location, users can also send alert messages through Short Message Service(SMS) to their close friends and families.
 
 ## 2. Design Framework
 ### a. Elements
-Deﬁne manifestations of information and functionality
-1. Information
-	2. form factor
-	3. posture
-	4. input method
 
-2. functional and data elements
-	- information
-	- functions
-	- mechanisms
-	- actions
-	- domain object models
+###a. Form factor, posture and input methods
+
+- Form factor: 
+    * This application is a mobile application.
+
+- Posture: 
+    * The mode of attention are fingers.
+
+- Input methods: 
+    * This application is uses keypad and touchscreen.
+
+###b. Functional and data elements
+
+- Fundamental subjects: 
+   * Contact emergency stations and close contacts with just a few taps.
+
+- Relationship between each other:   
+    * After switching on GPS system, users' location will aid in contacting the nearest emergency stations as well as sending alert messages to close friends and families.      
+                                                                                    
+- Functional elements based on functional requirements: 
+    * Users can key in personal data, close friends and families' contact numbers and call the nearest emergency stations.
+
+- Accomplish user’s goals
+    * Users can contact and seek help from nearest emergency stations and send alert messages to close friends and families in the shortest time possible(just a few taps).
+
+- Best fit the design principles
+    * One screen with simple and easy to use interface to speed up user's usage. 
+    
+- Fit within technology
+    * This application is done by using mobile phone as the technology.
+
+- Differentiation of interaction from competitors
+    * This application is specifically for Malaysia citizens by providing accurate and accessible information of the nearest emergency stations.  
+    * Users can also send alert messages to close friends and families with just a few taps.         
+    
 
 ### b. Framework
 Design overall structure of user experience
@@ -261,10 +306,10 @@ Design overall structure of user experience
 1. Sketch
 	1. if your project is a design product
 		1. Your sketch must be a wireframe.
-	
-#### Functional groups and hierarchy
-[![hieracy.png](https://s25.postimg.org/ya7uhyy8v/hieracy.png)](https://postimg.org/image/ibz4ru40r/)
-
+	2. if your project is a installation project
+		1. Your sketch must be a installation sketch.
+	3. Must have
+		1. groupings and hierarchy
 		2. Territories of each functional & design elements
 		3. Arrangements of containers & components
 2. Key path Scenario
