@@ -39,7 +39,7 @@ People who own a handphone and require help in case of emergencies
 
 4. How is this different from the rest           
 *Simple easy to use interface.
-*A customized service specifically for Malaysia.   
+*A customized service specifically for Malaysian citizens.   
 *Up-to-date accurate information of emergency stations in Malaysia.
 
 5.Goal                          
@@ -65,13 +65,12 @@ People who own a handphone and require help in case of emergencies
 
 
 ####Field (market) research
-*Same concept application designer(chance of better function/layout)
 
 ## Competitors
 
 **1. Emergency+**
  
- A smartphone apps that developed by Australia’s Triple Zero Awareness Working Group. This apps:
+ A smartphone apps that developed by Australia’s Triple Zero Awareness Working Group. This app:
 
  - provide the caller with information about when to call Triple Zero.
  - provide the caller with information about who to call in various non-emergency situations.
@@ -315,7 +314,7 @@ Lastly, Michee is notified that the time of her police call has been recorded in
 
 
 ###d. Interaction framework Sketch
-[![123.png](https://s25.postimg.org/wsqzk5ivz/123.png)](https://postimg.org/image/gui9u0onv/)
+[![14489644_10154426687598820_2071317612_o.jpg](https://s25.postimg.org/ixsp1oogv/14489644_10154426687598820_2071317612_o.jpg](https://postimg.org/image/dz56n5knv/)
 
 
 ###e. Key path scenarios
