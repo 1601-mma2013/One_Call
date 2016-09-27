@@ -211,11 +211,14 @@ Represent domain factors beyond individual users and customers
 
 Michee Lin's context scenario
 
-One Friday night, Michee Lin went for her university club's event and by the event finishes, it was already past midnight. Michee hurriedly gets into her car, ready to leave. While driving, Michee glances at her phone, scrolling through Facebook to keep her awake as it was very late and she has had a long day. Then, Michee comes to a cross junction stops at a red light. When the light turned green, Michee accelerated without paying attention to her surroundings as she was looking at her phone. Suddenly, she felt a collision with a loud bang. Feeling shaken, Michee turned and realized that a car has crashed into the left side of her car. Michee panicked and got down of the car. The other driver, a man, exited his car and started blaming Michee for the car crash. 
+Before leaving the house in the morning, Michee was notified on her phone that the One-Call application has been updated. She then taps into the app and was required to key in her identification card number to log in. Then, Michee confirms that her close friends and families' information that she have added remains. After that, Michee heads to Multimedia University.
 
-Michee felt helpless as she has never experienced an accident before. She quickly dialed his father's number. After telling her father what happened, Michee's father guided her to call the police and make a report. After ending the call, Michelled keyed in '999' and called. After a few beeps, someone picked up. To Michee's surprise, an intercom asked Michee to select a language she wanted. After selecting, Michee was asked to hold while a song played. As someone picked up, Michee explained her problem. And again, she was asked to wait for another few seconds as her call was redirected to the police station nearest to her. 
+While driving, Michee comes to a red light and stops. Suddenly, Michee feels a collision into the back of her car. Michee gets down from the car to realize that the car behind has crashed into her car. Michee quickly takes out her phone and taps the One-Call application icon at the lock screen of her phone. She taps the 'police' button in the application. Michee then selects the police station nearest to her current location and calls for help. 
 
-After all the hassle, Michee finally managed to recieve help from two policemen, made a car accident report and settled everything with the driver.
+After ending the call, a pop up message in the app asks if Michee wants to contact her close contacts. Michee taps 'yes' to send an alert message to her father, an insurance manager, whose info she has preset earlier in the morning. Michee then takes a photo of the scene of accident and sends the message. 
+
+Lastly, Michee is notified that the time of her police call has been recorded in the history section in the app. Michee then closes the app and by the time she does the police has arrived, ready for help.
+
 
 
 ### b. Requirements
