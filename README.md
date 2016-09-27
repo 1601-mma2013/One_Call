@@ -113,6 +113,15 @@ Review existing work and product
 ### d. User observations
 
 [![1.png](http://s25.postimg.org/rztqsmodb/image.png)](http://postimg.org/image/bc28q4tln/)
+[![2.png](http://s25.postimg.org/v82tjf00v/image.png)](http://postimg.org/image/tt18uoyxn/)
+[![3.png](http://s25.postimg.org/i577059sv/image.png)](http://postimg.org/image/pl6glxxi3/)
+[![4.png](http://s25.postimg.org/msd91wx5r/image.png)](http://postimg.org/image/i6h4tkbmj/)
+[![5.png](http://s25.postimg.org/5gcwgh3of/image.png)](http://postimg.org/image/ja195iw9n/)
+[![6.png](http://s25.postimg.org/kqcrnnz6n/image.png)](http://postimg.org/image/c83bjbsnv/)
+[![7.png](http://s25.postimg.org/sx4rf8p9b/image.png)](http://postimg.org/image/q31m1sn2z/)
+[![8.png](http://s25.postimg.org/rjd4jxpzz/image.png)](http://postimg.org/image/4unxkd8m3/)
+[![9.png](http://s25.postimg.org/ueq7qstzz/image.png)](http://postimg.org/image/u1ytkmbq3/)
+[![10.png](http://s25.postimg.org/59z7ddujj/image.png)](http://postimg.org/image/z1w9skhcr/)
  
 1. Users
 
