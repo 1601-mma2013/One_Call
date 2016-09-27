@@ -234,19 +234,20 @@ Lastly, Michee is notified that the time of her police call has been recorded in
 Describe necessary capabilities of the product
 #### Functional and data needs
 1.Device that users carry the most around whenever they go : 
-*Cellphone (First)
-*Tablet    (Second)
+
+* Cellphone (First)
+* Tablet    (Second)
 
 2.
 
 #### User mental models
-*User just need to download the application to use it.
+* User just need to download the application to use it.
 
 #### Design imperatives
-*The application provide all the emergency number,location,and let you enter others emergency number you know.
+* The application provide all the emergency number,location,and let you enter others emergency number you know.
 
 #### Product vision
-*User can minimize the time taken to find the nearest location/number of emergency call(Hospital,Police,Fire Station)
+* User can minimize the time taken to find the nearest location/number of emergency call(Hospital,Police,Fire Station)
 
 #### Business requirements
 *
@@ -258,18 +259,23 @@ Describe necessary capabilities of the product
 ## 2. Design Framework
 
 ### a. Elements
-Deﬁne manifestations of information and functionality
-1. Information
-	2. form factor
-	3. posture
-	4. input method
 
-2. functional and data elements
-	- information
-	- functions
-	- mechanisms
-	- actions
-	- domain object models
+##### Information
+* Form factor
+-This application is either mobile or tablet application
+
+* Posture
+-The mode of attention are voice and fingers.
+
+* Input method
+-This application is using voices,keypad and touch screen.
+
+#### Functional and data elements
+* Information
+* Functions
+* Mechanisms
+* Actions
+* Domain object models
 
 ### b. Framework
 Design overall structure of user experience
