@@ -316,7 +316,7 @@ Business requirements
 
 ###e. Key path scenarios
 
-1. Michee logs in with her IC number, name and phone number. At the home page, Michee taps the 'settings' button. Michee then inserts her personal information into the 'My Data' tab. She also selects her language as English in the 'language' tab. Michee briefly view through the 'Help' tab to learn more about the application.
+1. Michee signs up with her IC number, name and phone number. At the home page, Michee taps the 'settings' button. Michee then inserts her personal information into the 'My Data' tab. She also selects her language as English in the 'language' tab. Michee briefly view through the 'Help' tab to learn more about the application.
 
 2. Next, Michee taps 'Contacts'. Michee then keys in 3 phone numbers in the 'family' category, as well as for the 'friends' category with her closest family and friends. For the 'ICE' tab, she adds emergency numbers of her family doctor, car service centre and electrician. 
 
@@ -328,12 +328,12 @@ Business requirements
 
 - Alternative Scenarios
 
-Susan would like to check her exam timetable. She is too busy doing her revision and she uses S Voice to access into the MMU Apps to save time. 
+Michee finds the application hard to open. Hence, she goes to the settings and check the option for 'place app at lockscreen'. This allows Michee to open the application at her lock screen without typing her phone's passcode.
 
 - Necessary-use Scenarios
 
-Alex is an undergrad computer science student in Multimedia University, Cyberjaya.  He is a forgetful student.  He use the ‘forget your password?’ link to find his password frequently.     
+Michee easily forgets to record the accidents that have happened that caused her to use this application. The One Call application automatically saves the time when an emergency call is made so that she can refer back to the history.
 
 - Edge-case Use Scenarios
 
-Susan like to logout her MMU Apps account everyday for protect her private.  She need a ‘Remember ID number’ button to help her to login her account easily.
+Michee prefers to log out of her One Call Application to protect her privacy.  She needs a ‘Sign in as Michee’ button to help her to login into her account easily.
