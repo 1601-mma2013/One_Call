@@ -300,7 +300,7 @@ Business requirements
     * Users can also send alert messages to close friends and families with just a few taps.         
     
 ###c. Functional groups and hierarchy
-[![hieracy.png](https://s25.postimg.org/ya7uhyy8v/hieracy.png)](https://postimg.org/image/ibz4ru40r/)
+[![0.png](https://s25.postimg.org/lldjyas4f/image.png)](https://postimg.org/image/fkfv185i3/)
 
 - Interaction patterns and principles
     * This application provides learnable interaction design, which users learn the functions.
