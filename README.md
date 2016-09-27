@@ -37,12 +37,12 @@ Review existing work and product
  - assist the caller to dial the relevant number.
  - display the GPS coordinates of the phone's location that the caller can read out to the emergency operator.
 
- *Pros:
+*Pros:
 
  - Accessible for iOS, Android and Windows devices
  - There are no monthly fees associated with use of the app.
 
- *Cons:
+*Cons:
 
  - Not all of them can do what they claim and could delay emergency assistance
  - Time consuming
@@ -85,45 +85,32 @@ Review existing work and product
 ### c. Stakeholder Interviews (internal / external)
 
 
-1. product{project} vision 
+####Product{project} vision 
+* Users able to call the correct contact number right away without wasting time when they are in emergency situation.
+* To provide quick and accessible help at all times with accurate information
 
-   - Users able to call the correct contact number right away without wasting time when they are in emergency situation.
-   - To provide quick and accessible help at all times with accurate information
+####Risk
+* Users abuse the usage of emergency buttons, causing false alarm.
+* Information of nearest stations are not updated
+* Users' handphone GPS is not responsive
 
-2. risk
-
-      - Users abuse the usage of emergency buttons, causing false alarm.
-      - Information of nearest stations are not updated
-      - Users' handphone GPS is not responsive
-
-3. Obstacles
-        -Accuracy of location
-        -Techincal problems
+####Obstacles
+* Accuracy of location
+* Techincal problems
 	
-4. constraints 
-
-      - Lack of information
-      - Missed up some location and contact.
-      - Users ignore the application as if they think emergencies not happen always.
-      - Users do not think that application is helpful.
+####Constraints 
+* Lack of information
+* Missed up some location and contact.
+* Users ignore the application as if they think emergencies not happen always.
+* Users do not think that application is helpful.
 	
-	1. Internal limitations 
-		2. viable technologies
-		2. cost
-5. opportunities 
-        1. Lessen worst case scenerio (Example : if taking more time to find the right contact number,it might be too late)
-	 - to minimize the time needed to obtain correct contact number
-	 - to improve personal safety [especially emergency happens when you are alone/during midnight] 
+	
+####Opportunities 
+* Lessen worst case scenerio (Example : if taking more time to find the right contact number,it might be too late)
+- to minimize the time needed to obtain correct contact number
+- to improve personal safety [especially emergency happens when you are alone/during midnight] 
 	 
-	
-	1. **In spite of** the obstacles we have this project has strength from a), b), c), …. 
-	2. Persisting problem
-
-5. users 
-
 ### d. User observations
-Understand user needs and behavior and describe it.
-Find various aspect of audience/customer
  
 1. Users
 
@@ -143,13 +130,14 @@ Find various aspect of audience/customer
 
 9. (user’s) challenges - Unable get accurate location and number of each emergency button.
 
-## 2. Modeling
-### a. Personas
+##**2. Modeling**
+
+###a. Personas
  
        Name       : Michellin
        Gender     : Female
        Age        : 20
-       Occupation : 
+       Occupation : Student 
        
 
 1. Goal - Able to minimize the time taken when finding emergency number(hospital,police,fire station) at emergency situation.
