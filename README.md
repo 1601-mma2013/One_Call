@@ -315,7 +315,7 @@ Lastly, Michee is notified that the time of her police call has been recorded in
 
 
 ###d. Interaction framework Sketch
-[![14489644_10154426687598820_2071317612_o.jpg](https://s25.postimg.org/ixsp1oogv/14489644_10154426687598820_2071317612_o.jpg](https://postimg.org/image/dz56n5knv/)
+[![123.png](https://s25.postimg.org/wsqzk5ivz/123.png](https://postimg.org/image/gui9u0onv/)
 
 
 ###e. Key path scenarios
