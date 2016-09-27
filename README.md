@@ -30,35 +30,35 @@ The 'One Call' Application:
 People who own a handphone and require help in case of emergencies
 
 2.Users Behaviour               
-* Users prefer a fast and simple application.
-* Users want to be able to contact close friends or families during emergencies.
-* Users prefer an application with simple interface.
+*Users prefer a fast and simple application.
+*Users want to be able to contact close friends or families during emergencies.
+*Users prefer an application with simple interface.
 				
 3.Existence of this application  
-* Users are able to contact/seek help from the nearest emergency stations or close friends and families.
+*Users are able to contact/seek help from the nearest emergency stations or close friends and families.
 
 4. How is this different from the rest           
-* Simple easy to use interface.
-* A customized service specifically for Malaysia.   
-* Up-to-date accurate information of emergency stations in Malaysia.
+*Simple easy to use interface.
+*A customized service specifically for Malaysia.   
+*Up-to-date accurate information of emergency stations in Malaysia.
 
 5.Goal                          
-*To minimize the time taken for users to get the contact number and location when they are in emergency.
+*To minimize the time taken for users to seek help/contact the nearest emergency stations or close friends and families when in need in the shortest time.
 
-6.Platform to be presented     
-*Gadget(mobile,tablet)
+6.Platform    
+*Mobile application
 
-7.What will trigger users think of this application :
+7.What will trigger users to think of this application :
 *Emergency application
 
 		   
 ####Branding Strategy
 
 1.Brand Vision
-*Users in Malaysia will able to get the direct information of the nearest contact and location based on emergency button.
+*Users in Malaysia will able to seek help/contact the nearest emergency stations or close friends and families in the shortest time.
 
 2.Brand Values
-*A customized service specifically for Malaysia country. 
+*Users can seek help from the nearest emergency stations or close friends and families with just one button tap.
 
 3.Collaboration
 *Goverment
