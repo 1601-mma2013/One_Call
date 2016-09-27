@@ -225,8 +225,11 @@ Lastly, Michee is notified that the time of her police call has been recorded in
 
 
 ### b. Requirements
-Describe necessary capabilities of the product
+
 Functional and data needs
+[![0010.png](https://s14.postimg.org/w4st88fsx/0010.png)](https://postimg.org/image/s8fhc8ut9/)
+[![0011.png](https://s22.postimg.org/jp0x1xhtd/0011.png)](https://postimg.org/image/gi6diaxd9/)
+[![0012.png](https://s18.postimg.org/d5u8vz1q1/0012.png)](https://postimg.org/image/876qhfxx1/)
 
 
 User mental models
