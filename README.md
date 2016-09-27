@@ -127,29 +127,25 @@ People who own a handphone and require help in case of emergencies
 
 
 ####Product{project} vision 
-* Users able to call the correct contact number right away without wasting time when they are in emergency situation.
+* Users are able to seek help from emergency stations or close friends and families in the shortest time possible 
 * To provide quick and accessible help at all times with accurate information
 
 ####Risk
 * Users abuse the usage of emergency buttons, causing false alarm.
-* Information of nearest stations are not updated
-* Users' handphone GPS is not responsive
+* Information of nearest stations are not updated.
+* Users' handphone GPS is not responsive.
 
 ####Obstacles
 * Accuracy of location
-* Techincal problems
+* Technical problems such as GPS failure
 	
 ####Constraints 
-* Lack of information
-* Missed up some location and contact.
-* Users ignore the application as if they think emergencies not happen always.
-* Users do not think that application is helpful.
+* Missed out on certain location and contact.
+* Users do not use application thinking it is not useful or necessary.
 	
 	
 ####Opportunities 
-* Lessen worst case scenerio (Example : if taking more time to find the right contact number,it might be too late)
-- to minimize the time needed to obtain correct contact number
-- to improve personal safety [especially emergency happens when you are alone/during midnight] 
+* Minimize the time needed to contact emergency stations
 	 
 ### d. User observations
 
@@ -166,19 +162,19 @@ People who own a handphone and require help in case of emergencies
  
 1. Users
 
-2. potential users - User with cellphone
+2. potential users - Users with handphone that require emergency help
 
-3. (user’s) behaviors - User have problem to find nearest location and emergency call number when they having emergency.
+3. (user’s) behaviors - Users have problems obtaining the correct contact information of emergency stations 
 
-4. (user’s) attitudes - To reduce the time taken and risk.
+4. (user’s) attitudes - To reduce the time taken to obtain emergency stations' contact numbers
 
 5. (user’s) aptitudes - Application (Android/iOS)
 	
-6. (user’s) motivations - To reduce worse case scenario within the time user find the nearest location and emergency call number.
+6. (user’s) motivations - To minimize the time taken for users to seek help/contact the nearest emergency stations or close friends and families when in need in the shortest time.
 
-7. (user’s) environments - Anywhere.As long as that environment can detect with GPS.
+7. (user’s) environments - Anywhere that GPS can detect
 
-8. (user’s) tools - Cellphone or tablet.
+8. (user’s) tools - Handphone
 
 9. (user’s) challenges - Unable get accurate location and number of each emergency button.
 
@@ -186,25 +182,30 @@ People who own a handphone and require help in case of emergencies
 
 ###a. Personas
  
-       Name       : Michellin
+       Name       : Michee Lin
        Gender     : Female
        Age        : 20
-       Occupation : Student 
+       Occupation : University Student 
        
+Bio
 
-1. Goal - Able to minimize the time taken when finding emergency number(hospital,police,fire station) at emergency situation.
+Michee Lin is a university student studying in Multimedia University, Cyberjaya. She stays in a nearby apartment in Cyberjaya. Michee drives to university in her Myvi(car) daily to attend her classes in the morning. Michee has her phone with her all time as it is convenient for her to contact people. 
 
-2. Behaviour - Panic when something happen.
+Before she leaves the house, Michee makes sure that she has her parents' and close friends' contact numbers organized in a specialized contact list so that she can contact them in case of emergencies, as she is staying alone in Cyberjaya. She has a list of emergency numbers written in her notepad that she flips through whenever needed. Besides that, Michee prefers her phone calls to be short and efficient without any delay. 
 
-3. attitudes - She is too reliable to phone.
+1. Goal - Able to minimize the time taken to contact emergency stations(hospital,police,fire station) and her closed friends and families.
 
-4. aptitudes - Since she is more rely on phone,so she more familiar with phone application.
+2. Behaviour - She carries her phone everywhere she goes.
 
-5. environments - Everywhere
+3. Attitudes - She prefers her phone contacts to be organized and easily reachable.
 
-6. tools  - Gadget (Phone/Tablet)
+4. Aptitudes - She has an application that helps her organize her close contacts.
 
-7. challenges - Futuristic and simple visual design.
+5. Environments - Everywhere she goes.
+
+6. Tools  - Mobile phone.
+
+7. Challenges - Futuristic and simple visual design.
               
 
 ### b. Other Models
@@ -232,50 +233,27 @@ Lastly, Michee is notified that the time of her police call has been recorded in
 
 ### b. Requirements
 Describe necessary capabilities of the product
-#### Functional and data needs
-1.Device that users carry the most around whenever they go : 
-
-* Cellphone (First)
-* Tablet    (Second)
-
-2.
-
-#### User mental models
-* User just need to download the application to use it.
-
-#### Design imperatives
-* The application provide all the emergency number,location,and let you enter others emergency number you know.
-
-#### Product vision
-* User can minimize the time taken to find the nearest location/number of emergency call(Hospital,Police,Fire Station)
-
-#### Business requirements
-*
-
-#### Technology
-*
-
+- Functional and data needs
+- user mental models
+- design imperatives
+- product vision
+- business requirements
+- technology
 
 ## 2. Design Framework
-
 ### a. Elements
+Deﬁne manifestations of information and functionality
+1. Information
+	2. form factor
+	3. posture
+	4. input method
 
-##### Information
-* Form factor
--This application is either mobile or tablet application
-
-* Posture
--The mode of attention are voice and fingers.
-
-* Input method
--This application is using voices,keypad and touch screen.
-
-#### Functional and data elements
-* Information
-* Functions
-* Mechanisms
-* Actions
-* Domain object models
+2. functional and data elements
+	- information
+	- functions
+	- mechanisms
+	- actions
+	- domain object models
 
 ### b. Framework
 Design overall structure of user experience
