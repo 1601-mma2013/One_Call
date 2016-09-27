@@ -17,6 +17,8 @@ The 'One Call' Application:
 
 ### b. Audit
 
+##Business and marketing plans
+
 1.Users                         
 Young adult
 
@@ -41,10 +43,20 @@ Young adult
 *Emergency application
 
 		   
-		   
+##Branding Strategy
+
+1.Brand Vision
+*Users in Malaysia will able to get the direct information of the nearest contact and location based on emergency button.
+
+2.Brand Values
+*A customized service specifically for Malaysia country. 
+
+3.Collaboration
+*Goverment
+
 
 1. Field (market) research
--Same concept application designer(chance of better function/layout)
+*Same concept application designer(chance of better function/layout)
 
 ## Competitors
 
