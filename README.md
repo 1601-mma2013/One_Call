@@ -299,17 +299,46 @@ Business requirements
     * This application is specifically for Malaysia citizens by providing accurate and accessible information of the nearest emergency stations.  
     * Users can also send alert messages to close friends and families with just a few taps.         
     
+###c. Functional groups and hierarchy
+[![14453980_1189020254492431_323453128_o.jpg](http://s15.postimg.org/qb13zcarf/14453980_1189020254492431_323453128_o.jpg)](http://postimg.org/image/6gf2d7vjr/)
 
-### b. Framework
-Design overall structure of user experience
+- Interaction patterns and principles
+    * This application provide visible interaction design. The UI components such as buttons that are standard are easily understood for users to click and tap. 
+    * This application provide learnable interaction design, which users learn the functions.
+    * This application provide consistent interaction design. Users able to focus on the context when the elements, behaviours and styles are consistent. 
 
-1. Sketch
-	1. if your project is a design product
-		1. Your sketch must be a wireframe.
-	2. if your project is a installation project
-		1. Your sketch must be a installation sketch.
-	3. Must have
-		1. groupings and hierarchy
-		2. Territories of each functional & design elements
-		3. Arrangements of containers & components
-2. Key path Scenario
+- Select primary views (screens or states)
+    * By focusing user’s goal, the main view is the login screen.
+
+
+###d. Interaction framework Sketch
+[![SketchesInteraction.jpg](https://s17.postimg.org/j0rdjvcfj/Sketches_Interaction.jpg)](https://postimg.org/image/h8yeoyt2j/)
+
+###e. Key path scenarios
+
+1. Susan actives MMU Apps with her Android phone.  She key-in her student ID number at the first typing slot, ‘username’ and password at the second typing slot, ‘password’.  She clicks ‘Login’ button after she key-in the required information.  After she clicked the ‘Login’ button, there is the home page of the MMU Apps which are contained all the online system of her university, MMU.
+
+2. Susan clicks ‘Camsys’ button to go to the her personal Camsys account system to find her exam timetable.  After that, she clicks the ‘Exam Timetable’ button and clicks ‘Download’ button to download her exam timetable in her phone.
+
+3. Susan wants to do study of her major course  after she checked her exam timetable.  She clicks the ‘return’ button at the bottom of her phone twice to go back to the home page.  She clicks ‘MMLS’ button, there are the courses that she registered.  She clicks on her major course which is ‘MBM 10 - Business Management’ button.  She want to download the note of her major course.  So, she clicks ‘Note’ button and clicks ‘Download All’ to download all the notes at once.  
+
+4. Susan wants to check her academic calendar for plans her vacation with her friends.  She clicks twice of the ‘return’ button from the page of ‘Note’.  She clicks ‘Website’ button at the home page of the MMU Apps.  After that, she clicks ‘Community’ button and clicks ‘Academic Calendar’ afterward.  She checks her trimester break with the academic calendar and decide the date of her vacation immediately.  
+
+5. Before she is going to sleep, she click the power button which are placed at the top right of the interface of the MMU Apps to logout her MMU Apps’s personal account.          
+
+
+
+
+###f. Design with validation scenarios
+
+- Alternative Scenarios
+
+Susan would like to check her exam timetable. She is too busy doing her revision and she uses S Voice to access into the MMU Apps to save time. 
+
+- Necessary-use Scenarios
+
+Alex is an undergrad computer science student in Multimedia University, Cyberjaya.  He is a forgetful student.  He use the ‘forget your password?’ link to find his password frequently.     
+
+- Edge-case Use Scenarios
+
+Susan like to logout her MMU Apps account everyday for protect her private.  She need a ‘Remember ID number’ button to help her to login her account easily.
