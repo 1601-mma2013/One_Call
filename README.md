@@ -303,12 +303,12 @@ Business requirements
 [![hieracy.png](https://s25.postimg.org/ya7uhyy8v/hieracy.png)](https://postimg.org/image/ibz4ru40r/)
 
 - Interaction patterns and principles
-    * This application provide visible interaction design. The UI components such as buttons that are standard are easily understood for users to click and tap. 
-    * This application provide learnable interaction design, which users learn the functions.
-    * This application provide consistent interaction design. Users able to focus on the context when the elements, behaviours and styles are consistent. 
+    * This application provides learnable interaction design, which users learn the functions.
+    * This application provides visible interaction design. The UI components such as buttons that are standard are easily understood for users to click and tap. 
+    * This application provides consistent interaction design. Users are able to focus on the context when the elements, behaviours and styles are consistent. 
 
 - Select primary views (screens or states)
-    * By focusing user’s goal, the main view is the login screen.
+    * By focusing users' goals, the main view is the home page.
 
 
 ###d. Interaction framework Sketch
@@ -316,18 +316,13 @@ Business requirements
 
 ###e. Key path scenarios
 
-1. Susan actives MMU Apps with her Android phone.  She key-in her student ID number at the first typing slot, ‘username’ and password at the second typing slot, ‘password’.  She clicks ‘Login’ button after she key-in the required information.  After she clicked the ‘Login’ button, there is the home page of the MMU Apps which are contained all the online system of her university, MMU.
+1. Michee logs in with her IC number, name and phone number. At the home page, Michee taps the 'settings' button. Michee then inserts her personal information into the 'My Data' tab. She also selects her language as English in the 'language' tab. Michee briefly view through the 'Help' tab to learn more about the application.
 
-2. Susan clicks ‘Camsys’ button to go to the her personal Camsys account system to find her exam timetable.  After that, she clicks the ‘Exam Timetable’ button and clicks ‘Download’ button to download her exam timetable in her phone.
+2. Next, Michee taps 'Contacts'. Michee then keys in 3 phone numbers in the 'family' category, as well as for the 'friends' category with her closest family and friends. For the 'ICE' tab, she adds emergency numbers of her family doctor, car service centre and electrician. 
 
-3. Susan wants to do study of her major course  after she checked her exam timetable.  She clicks the ‘return’ button at the bottom of her phone twice to go back to the home page.  She clicks ‘MMLS’ button, there are the courses that she registered.  She clicks on her major course which is ‘MBM 10 - Business Management’ button.  She want to download the note of her major course.  So, she clicks ‘Note’ button and clicks ‘Download All’ to download all the notes at once.  
+3. In the 'alert message' tab, Michee taps 'settings' and added 3 numbers that she wantes to send alert messages to, which are her parents and brother's phone numbers. She also added a default message as her alert message. Michee taps the camera and took a photo. Then, she sends both the images and photo to the numbers that she has set to test the function.
 
-4. Susan wants to check her academic calendar for plans her vacation with her friends.  She clicks twice of the ‘return’ button from the page of ‘Note’.  She clicks ‘Website’ button at the home page of the MMU Apps.  After that, she clicks ‘Community’ button and clicks ‘Academic Calendar’ afterward.  She checks her trimester break with the academic calendar and decide the date of her vacation immediately.  
-
-5. Before she is going to sleep, she click the power button which are placed at the top right of the interface of the MMU Apps to logout her MMU Apps’s personal account.          
-
-
-
+4. At the home page, Michee taps the 'Police' tab. She was greeted with a screen on 3 addresses, which are the top 3 police stations nearest to her current location.
 
 ###f. Design with validation scenarios
 
