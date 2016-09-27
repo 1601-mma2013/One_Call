@@ -300,7 +300,7 @@ Business requirements
     * Users can also send alert messages to close friends and families with just a few taps.         
     
 ###c. Functional groups and hierarchy
-[![14453980_1189020254492431_323453128_o.jpg](http://s15.postimg.org/qb13zcarf/14453980_1189020254492431_323453128_o.jpg)](http://postimg.org/image/6gf2d7vjr/)
+[![hieracy.png](https://s25.postimg.org/ya7uhyy8v/hieracy.png)](https://postimg.org/image/ibz4ru40r/)
 
 - Interaction patterns and principles
     * This application provide visible interaction design. The UI components such as buttons that are standard are easily understood for users to click and tap. 
@@ -312,7 +312,7 @@ Business requirements
 
 
 ###d. Interaction framework Sketch
-[![SketchesInteraction.jpg](https://s17.postimg.org/j0rdjvcfj/Sketches_Interaction.jpg)](https://postimg.org/image/h8yeoyt2j/)
+
 
 ###e. Key path scenarios
 
