@@ -11,14 +11,15 @@ Liong Vin Joe 1142701626
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-One Call is a mobile application that allows users to make direct emergency calls to the nearest required stations(police station, fire station, hospital) with just one tap on the phone. 
 
+One Call is a life saving mobile application that allows users to call for help from the nearest emergency stations(police station, hospital, fire station) or their closest friends and families in the shortest time possible.
 
 1. objectives
 The 'One Call' Application:
- - Users do not have to search through their phone contact list for emergency numbers, hence reducing the time to call for help when needed.
- E.g. If one were to dail 999 for the police station, it will be redirected to the station nearest to your location. This causes a delay in receiving help. 
- - Includes a GPS system that tracks user's location and provide the necessary information about emergency stations nearest to the user.
+ - Users do not have to search through their phone contact list for emergency numbers, hence reducing the time to call for help when needed. 
+ E.g. If one were to dail 999 for the police station, the call first be directed to the headquarters of the required station(police station, hospital, fire station), which will then be redirected again to the station nearest to the users' location. The station will then issue help to the users. This causes a delay in receiving help. 
+ - Includes a GPS system that tracks user's location and provide the necessary information about the emergency stations nearest to the user.
+ - Allows users to save their close friends' and families' contact numbers to alert them in case of emergencies.
  
 
 ### b. Audit
@@ -26,18 +27,20 @@ The 'One Call' Application:
 ####Business and marketing plans
 
 1.Users                         
-Young adult
+People who own a handphone and require help in case of emergencies
 
 2.Users Behaviour               
-*User prefer a fast and simple application.
-*User doesn't like complex layout design.
+* Users prefer a fast and simple application.
+* Users want to be able to contact close friends or families during emergencies.
+* Users prefer an application with simple interface.
 				
 3.Existence of this application  
-*User able to get the direct information of the nearest contact and location based on emergency button.
+* Users are able to contact/seek help from the nearest emergency stations or close friends and families.
 
-4.What's the different from     
-*A customized service specifically for Malaysia country.           
-*More friendly application.
+4. How is this different from the rest           
+* Simple easy to use interface.
+* A customized service specifically for Malaysia.   
+* Up-to-date accurate information of emergency stations in Malaysia.
 
 5.Goal                          
 *To minimize the time taken for users to get the contact number and location when they are in emergency.
