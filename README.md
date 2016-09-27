@@ -261,10 +261,10 @@ Design overall structure of user experience
 1. Sketch
 	1. if your project is a design product
 		1. Your sketch must be a wireframe.
-	2. if your project is a installation project
-		1. Your sketch must be a installation sketch.
-	3. Must have
-		1. groupings and hierarchy
+	
+#### Functional groups and hierarchy
+[![hieracy.png](https://s25.postimg.org/ya7uhyy8v/hieracy.png)](https://postimg.org/image/ibz4ru40r/)
+
 		2. Territories of each functional & design elements
 		3. Arrangements of containers & components
 2. Key path Scenario
