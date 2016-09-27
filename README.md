@@ -111,6 +111,8 @@ Review existing work and product
 - to improve personal safety [especially emergency happens when you are alone/during midnight] 
 	 
 ### d. User observations
+
+[![1.png](http://s25.postimg.org/rztqsmodb/image.png)](http://postimg.org/image/bc28q4tln/)
  
 1. Users
 
