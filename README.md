@@ -127,29 +127,25 @@ People who own a handphone and require help in case of emergencies
 
 
 ####Product{project} vision 
-* Users able to call the correct contact number right away without wasting time when they are in emergency situation.
+* Users are able to seek help from emergency stations or close friends and families in the shortest time possible 
 * To provide quick and accessible help at all times with accurate information
 
 ####Risk
 * Users abuse the usage of emergency buttons, causing false alarm.
-* Information of nearest stations are not updated
-* Users' handphone GPS is not responsive
+* Information of nearest stations are not updated.
+* Users' handphone GPS is not responsive.
 
 ####Obstacles
 * Accuracy of location
-* Techincal problems
+* Technical problems such as GPS failure
 	
 ####Constraints 
-* Lack of information
-* Missed up some location and contact.
-* Users ignore the application as if they think emergencies not happen always.
-* Users do not think that application is helpful.
+* Missed out on certain location and contact.
+* Users do not use application thinking it is not useful or necessary.
 	
 	
 ####Opportunities 
-* Lessen worst case scenerio (Example : if taking more time to find the right contact number,it might be too late)
-- to minimize the time needed to obtain correct contact number
-- to improve personal safety [especially emergency happens when you are alone/during midnight] 
+* Minimize the time needed to contact emergency stations
 	 
 ### d. User observations
 
@@ -166,19 +162,19 @@ People who own a handphone and require help in case of emergencies
  
 1. Users
 
-2. potential users - User with cellphone
+2. potential users - Users with handphone that require emergency help
 
-3. (user’s) behaviors - User have problem to find nearest location and emergency call number when they having emergency.
+3. (user’s) behaviors - Users have problems obtaining the correct contact information of emergency stations 
 
-4. (user’s) attitudes - To reduce the time taken and risk.
+4. (user’s) attitudes - To reduce the time taken to obtain emergency stations' contact numbers
 
 5. (user’s) aptitudes - Application (Android/iOS)
 	
-6. (user’s) motivations - To reduce worse case scenario within the time user find the nearest location and emergency call number.
+6. (user’s) motivations - To minimize the time taken for users to seek help/contact the nearest emergency stations or close friends and families when in need in the shortest time.
 
-7. (user’s) environments - Anywhere.As long as that environment can detect with GPS.
+7. (user’s) environments - Anywhere that GPS can detect
 
-8. (user’s) tools - Cellphone or tablet.
+8. (user’s) tools - Handphone
 
 9. (user’s) challenges - Unable get accurate location and number of each emergency button.
 
