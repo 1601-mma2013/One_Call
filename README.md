@@ -16,6 +16,28 @@ The 'One Call' Application:
  
 
 ### b. Audit
+
+Users                         : Young adult
+
+Users Behaviour               : -User prefer a fast and simple application.
+                                -User doesn't like complex layout design.
+				
+Existence of this application : User able to get the direct information of the nearest contact and location based on emergency button.
+
+What's the different from     : -A customized service specifically for Malaysia country.
+other same concept              -More friendly application.
+application.
+
+Goal                          : To minimize the time taken for users to get the contact number and location when they are in emergency.
+
+Platform to be presented      : Gadget(mobile,tablet)
+
+What will trigger users       : Emergency application
+think of this application
+
+		   
+		   
+
 Review existing work and product
 1. Field (market) research
 -Same concept application designer(chance of better function/layout)
