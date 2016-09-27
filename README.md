@@ -226,25 +226,26 @@ Lastly, Michee is notified that the time of her police call has been recorded in
 
 ### b. Requirements
 
-Functional and data needs
+#### Functional and data needs
+
 [![a.png](https://s25.postimg.org/ct16ocwdb/image.png)](https://postimg.org/image/m0tf523ff/)
 [![122.png](https://s25.postimg.org/8xxslsd7j/122.png)](https://postimg.org/image/nh4xn76cb/)
 
 
-User mental models
+#### User mental models
 * Users can seek help/contact emergency stations and close contacts in the shortest time possible.
 
 
-Design imperatives
+#### Design imperatives
 * The application provides features of adding important contacts of close friends and families.
 * The application provides features of contacting the nearest emergency stations with just one tap.
 
 
-Product vision
+#### Product vision
 * Malaysians are able to seek help and contact emergency stations when needed, unfortunate cases such as accidents can be lessen and prevented.
 
 
-Business requirements
+#### Business requirements
 - Collected Information
    * Users prefer a simple and user friendly interface
    
